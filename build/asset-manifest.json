@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d3be4d9e.js",
+    "static/js/239.e41408c5.chunk.js": "/static/js/239.e41408c5.chunk.js",
+    "static/js/977.e0f1da03.chunk.js": "/static/js/977.e0f1da03.chunk.js",
+    "static/js/455.56253e30.chunk.js": "/static/js/455.56253e30.chunk.js",
+    "static/media/signInImage.png": "/static/media/signInImage.dc6e0e9a8fb1a247b2d6.png",
+    "static/media/BgSignUp.png": "/static/media/BgSignUp.9b1e961ca6543cb35854.png",
+    "static/media/admin-backgroud-red.png": "/static/media/admin-backgroud-red.ebc39e8fcb01ae3e0011.png",
+    "static/media/admin-background-dark.png": "/static/media/admin-background-dark.e8db8cac98ac4a0a16ea.png",
+    "static/media/Aadvi-logo.png": "/static/media/Aadvi-logo.f3d51766f6e011647e06.png",
+    "static/media/avatar2.png": "/static/media/avatar2.5692c39db4f8c0ea999e.png",
+    "static/media/avatar3.png": "/static/media/avatar3.9f646ac5920fa40adf00.png",
+    "static/media/avatar1.png": "/static/media/avatar1.eeef2af6dfcd3ff23cb8.png",
+    "index.html": "/index.html",
+    "main.d3be4d9e.js.map": "/static/js/main.d3be4d9e.js.map",
+    "239.e41408c5.chunk.js.map": "/static/js/239.e41408c5.chunk.js.map",
+    "977.e0f1da03.chunk.js.map": "/static/js/977.e0f1da03.chunk.js.map",
+    "455.56253e30.chunk.js.map": "/static/js/455.56253e30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3be4d9e.js"
+  ]
+}
